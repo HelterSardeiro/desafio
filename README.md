@@ -6,7 +6,7 @@
 
 ***2 - Importar o banco de dados mysql import.sql***
 
-***3 - Configurar a conexão no arquivo model.php***
+***3 - Configurar a conexão no arquivo api/models/model.php***
 
 
 # Detalhes
